@@ -1,9 +1,9 @@
 #!python3
 """
-Created by Jared hall begun 6/13/2019
-project will take a sting input and create a banner around the string
-if run as main will request user input as sting
-project iidea from http://usingpython.com/python-programming-challenges/
+Created by Jared hall 6/13/2019
+project will take a string input and create a banner around the string
+if run as main will request user input as string
+project idea from http://usingpython.com/python-programming-challenges/
 """
 
 # imports
