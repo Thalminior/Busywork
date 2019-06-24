@@ -5,8 +5,6 @@ project will solve sudoku puzzles
 """
 
 
-
-
 # imports
 import numpy as np
 
